@@ -1,2 +1,1 @@
-# image
-我的图床
+# 白嫖jsDeliverCDN加速
